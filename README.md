@@ -7,7 +7,7 @@ I am a full stack developer and I love to discover new technolgoies. My latest o
 Please explore! I have a few work in progress projects that I am looking forward to complete. Don't hesitate to ask me about them when we get a chance to connect!
 
 ## Technologies
-**Front-end:** JavaScript, TypeScript, React, Redux, NextJS, HTML, CSS, GraphQL, WebSockets, RESTful API, Jest/RTL/Cypress
+**Front-end:** JavaScript, TypeScript, React, Redux, NextJS, HTML, CSS, GraphQL, WebSockets, RESTful API, Jest/RTL/Cypress<br/>
 **Back-end:** Node, Python, MySQL, MongoDB (NoSQL), AWS EC2/S3/RDS, CI/CD
 
 
