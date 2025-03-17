@@ -10,6 +10,9 @@ Please explore! I have a few work in progress projects that I am looking forward
 **Front-end:** JavaScript, TypeScript, React, Redux, NextJS, HTML, CSS, GraphQL, WebSockets, RESTful API, Jest/RTL/Cypress<br/>
 **Back-end:** Node, Python, MySQL, MongoDB (NoSQL), AWS EC2/S3/RDS, CI/CD
 
+### Contact
+LinkedIn: [LinkedIn](https://linkedin.com/in/samisoam)
+Email: [truong.vee@gmail.com](mailto:truong.vee@gmail.com)
 
 <!--
 **svyoung/svyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
