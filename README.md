@@ -11,6 +11,7 @@ Please explore! I have a few work in progress projects that I am looking forward
 **Back-end:** Node, Python, MySQL, MongoDB (NoSQL), AWS EC2/S3/RDS, CI/CD, Netlify
 
 ### Contact
+Website: [artsycoder.dev](https://artsycoder.dev)<br />
 LinkedIn: [LinkedIn](https://linkedin.com/in/samisoam)<br />
 Email: [truong.vee@gmail.com](mailto:truong.vee@gmail.com)
 
