@@ -8,7 +8,7 @@ Please explore! I have a few work in progress projects that I am looking forward
 
 ## Technologies
 **Front-end:** JavaScript, TypeScript, React, Redux, NextJS, HTML, CSS, GraphQL, WebSockets, RESTful API, Jest/RTL/Cypress<br/>
-**Back-end:** Node, Python, MySQL, MongoDB (NoSQL), AWS EC2/S3/RDS, CI/CD, Netlify <br />
+**Back-end:** Node, Python, PostgreSQL, MySQL, MongoDB (NoSQL), AWS EC2/S3/RDS, CI/CD, FastAPI <br />
 **AI:** OpenAI, Gemini, Llama, FAISS, RAG, LLMs
 
 ### Contact
